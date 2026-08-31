@@ -618,6 +618,16 @@ export CURSOR_API_KEY=your-cursor-api-key
 
 4. Recreate the sandbox by running `./ralph.sh --login` again.
 
+## Built with Ralph Loop
+
+Real products shipped with the same long-running agent loop:
+
+- [CAD Scene](https://cadscene.com) — An AI rendering workbench that turns bare 3D scenes into photoreal architectural visuals.
+- [PageAI](https://pageai.pro) — An AI website builder that designs, codes, and ships production-ready sites from a prompt.
+- [Saventify](https://saventify.com) — Animated wedding invitations with live RSVPs.
+- [MindruDan](https://mindrudan.com) — Dan Mindru's personal site for startups, notes, and ideas.
+- [AdCar](https://adcar.tv) — A marketplace where brands can buy ad space on an AMG driven across European capitals.
+
 ## License
 
 MIT
